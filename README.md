@@ -1,4 +1,4 @@
-#NOUGHTS AND CROSSES GAME
+<h1>NOUGHTS AND CROSSES GAME</h1>
 
 A simple game written in python. Noughts and crosses or as known in American english
 tick tack toe. It is played in the CLI where the first player is represented by Xs and the 
